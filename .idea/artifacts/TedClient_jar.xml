@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TedClient:jar">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <root id="archive" name="TedClient.jar">
+      <element id="module-output" name="TedClient" />
+    </root>
+  </artifact>
+</component>
